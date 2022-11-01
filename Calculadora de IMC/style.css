@@ -1,0 +1,38 @@
+
+body{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+input{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+#Calcular{
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 8px;
+    height: 40px;
+    color: white;
+    border: none;
+    width: 100%;
+    font-weight: bolder;
+    border-radius: 2px ;
+    cursor: pointer;
+}
+
+p{
+    color: black;
+    font-size: 15px;
+}
